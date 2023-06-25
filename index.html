@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8"> <!-- Pour les accents -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/svg+xml">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="card">
+        <div class="weather">
+            <!-- Icône météo image -->
+            <img src="./images/rain.png" class="weather-icon" alt="pluie">
+            <!-- Température -->
+            <h1 class="temp"></h1>
+            <!-- Ville -->
+            <h2 class="city"></h2>
+            <div class="details">
+                <!-- Détails de l'humidité -->
+                <div class="col">
+                    <img src="./images/humidity.png" alt="">
+                    <div>
+                        <p class="humidity"></p>
+                        <p>Humidité</p>
+                    </div>
+                </div>
+                <!-- Détails du vent -->
+                <div class="col">
+                    <img src="./images/wind.png" alt="">
+                    <div>
+                        <p class="wind"></p>
+                        <p>Vent</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="search">
+            <!-- Bouton de recherche avec l'icône de loupe -->
+            <button onclick="loadRandomWeather()"><img src="./images/search.png" alt="Loupe recherche"></button>
+        </div>
+    </div>
+
+    <!-- Inclusion du script JavaScript -->
+    <script src="./js/meteo.js"></script>
+
+    <!--Dans le fichier conf.json, Toutes les villes de tailles moyennes pas rapport aux transports en commun-->
+</body>
+
+</html>
