@@ -1,0 +1,155 @@
+
+{
+  "cities": [
+    {
+      "name": "Paris",
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    {
+      "name": "Tourcoing",
+      "latitude": 50.7235038,
+      "longitude": 3.1605714
+    },
+    {
+      "name": "Roubaix",
+      "latitude": 50.6915893,
+      "longitude": 3.1741734
+    },
+    {
+      "name": "Nanterre",
+      "latitude": 48.8924273,
+      "longitude": 2.2071267
+    },
+    {
+      "name": "Vitry-sur-Seine",
+      "latitude": 48.7876,
+      "longitude": 2.39164
+    },
+    {
+      "name": "Avignon",
+      "latitude": 43.9492493,
+      "longitude": 4.8059012
+    },
+    {
+      "name": "Poitiers",
+      "latitude": 46.5802596,
+      "longitude": 0.340196
+    },
+    {
+      "name": "Aubervilliers",
+      "latitude": 48.9146078,
+      "longitude": 2.3821895
+    },
+    {
+      "name": "Asnières-sur-Seine",
+      "latitude": 48.9144633,
+      "longitude": 2.2904828
+    },
+    {
+      "name": "Créteil",
+      "latitude": 48.7771486,
+      "longitude": 2.4530731
+    },
+    {
+      "name": "Colombes",
+      "latitude": 48.922788,
+      "longitude": 2.2543577
+    },
+    {
+      "name": "Dunkerque",
+      "latitude": 51.0347708,
+      "longitude": 2.3772525
+    },
+    {
+      "name": "Aulnay-sous-Bois",
+      "latitude": 48.934231,
+      "longitude": 2.499789
+    },
+    {
+      "name": "Saint-Pierre",
+      "latitude": 48.3832725,
+      "longitude": 7.4718731
+    },
+    {
+      "name": "Versailles",
+      "latitude": 48.8035403,
+      "longitude": 2.1266886
+    },
+    {
+      "name": "Courbevoie",
+      "latitude": 48.8953328,
+      "longitude": 2.2561602
+    },
+    {
+      "name": "Le Tampon",
+      "latitude": -21.2774285,
+      "longitude": 55.5164178
+    },
+    {
+      "name": "Béziers",
+      "latitude": 43.3436565,
+      "longitude": 3.2282254
+    },
+    {
+      "name": "Rueil-Malmaison",
+      "latitude": 48.87778,
+      "longitude": 2.1802832
+    },
+    {
+      "name": "Cherbourg-en-Cotentin",
+      "latitude": 49.6425343,
+      "longitude": -1.6249565
+    },
+    {
+      "name": "Champigny-sur-Marne",
+      "latitude": 48.8128227,
+      "longitude": 2.5144224
+    },
+    {
+      "name": "La Rochelle",
+      "latitude": 46.1591126,
+      "longitude": -1.1520434
+    },
+    {
+      "name": "Pau",
+      "latitude": 43.2957547,
+      "longitude": -0.3685668
+    },
+    {
+      "name": "Antibes",
+      "latitude": 43.5814476,
+      "longitude": 7.1277336
+    },
+    {
+      "name": "Saint-Maur-des-Fossés",
+      "latitude": 48.8033057,
+      "longitude": 2.4853015
+    },
+    {
+      "name": "Mérignac",
+      "latitude": 44.842168,
+      "longitude": -0.6469022
+    },
+    {
+      "name": "Ajaccio",
+      "latitude": 41.9263991,
+      "longitude": 8.7376029
+    },
+    {
+      "name": "Cannes",
+      "latitude": 43.5515198,
+      "longitude": 7.0134418
+    },
+    {
+      "name": "Saint-Nazaire",
+      "latitude": 47.2733517,
+      "longitude": -2.2138905
+    },
+    {
+      "name": "Drancy",
+      "latitude": 48.9229803,
+      "longitude": 2.4455201
+    }
+  ]
+}
